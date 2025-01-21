@@ -1,2 +1,5 @@
 This is txt file
+<<<<<<< HEAD
 Second line
+=======
+>>>>>>> parent of 8ab7a25 (2nd commit)
