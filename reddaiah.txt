@@ -1,2 +1,2 @@
 This is txt file
-second line
+Second line
